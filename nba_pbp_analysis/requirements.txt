@@ -1,0 +1,5 @@
+pyspark==4.0.1
+pymongo>=4.6
+pandas
+numpy
+matplotlib
